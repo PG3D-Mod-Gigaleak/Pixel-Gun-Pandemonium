@@ -1,0 +1,272 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Shoot
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.000000059604645
+        value: {x: 0.000000017354836, y: -0, z: -0, w: 1}
+        inSlope: {x: -0.5315941, y: 0, z: 0, w: -0.009422593}
+        outSlope: {x: -0.5315941, y: 0, z: 0, w: -0.009422593}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666672
+        value: {x: -0.07083453, y: 0, z: -0, w: 0.9974881}
+        inSlope: {x: -0.50122225, y: 0, z: 0, w: -0.026175706}
+        outSlope: {x: -0.50122225, y: 0, z: 0, w: -0.026175706}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333338
+        value: {x: -0.063478224, y: 0, z: -0, w: 0.9979832}
+        inSlope: {x: 0.19953251, y: 0, z: 0, w: 0.012435627}
+        outSlope: {x: 0.19953251, y: 0, z: 0, w: 0.012435627}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.40000004
+        value: {x: 0.000000059604645, y: -0, z: -0, w: 1}
+        inSlope: {x: 0.02977543, y: 0, z: 0, w: 0.000029504326}
+        outSlope: {x: 0.02977543, y: 0, z: 0, w: 0.000029504326}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PlasmaRifle 1/FPS_PLAYER_Arm_Right
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.000000059604645
+        value: {x: -0.000000008648727, y: 0, z: -0, w: 1}
+        inSlope: {x: -0.85848564, y: 0, z: 0, w: -0.024586895}
+        outSlope: {x: -0.85848564, y: 0, z: 0, w: -0.024586895}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333342
+        value: {x: -0.057232365, y: 0, z: -0, w: 0.9983609}
+        inSlope: {x: -1.7141541, y: 0, z: 0, w: -0.098265454}
+        outSlope: {x: -1.7141541, y: 0, z: 0, w: -0.098265454}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666672
+        value: {x: -0.114276946, y: 0, z: -0, w: 0.993449}
+        inSlope: {x: -0.80787414, y: 0, z: 0, w: -0.06825872}
+        outSlope: {x: -0.80787414, y: 0, z: 0, w: -0.06825872}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.10000008
+        value: {x: -0.111090586, y: 0, z: -0, w: 0.9938103}
+        inSlope: {x: 0.17760982, y: 0, z: 0, w: 0.019359298}
+        outSlope: {x: 0.17760982, y: 0, z: 0, w: 0.019359298}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36666673
+        value: {x: -0.0032066915, y: 0, z: -0, w: 0.9999949}
+        inSlope: {x: 0.17865792, y: 0, z: 0, w: 0.001063944}
+        outSlope: {x: 0.17865792, y: 0, z: 0, w: 0.001063944}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.40000004
+        value: {x: 0.000000059604645, y: -0, z: -0, w: 1}
+        inSlope: {x: 0.048101313, y: 0, z: 0, w: 0.000076890065}
+        outSlope: {x: 0.048101313, y: 0, z: 0, w: 0.000076890065}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PlasmaRifle 1/Arms_Mesh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.000000059604645
+        value: {x: -0.6602776, y: -0.23869385, z: 0.24242942, w: 0.6695422}
+        inSlope: {x: -0.24383852, y: -0.07967495, z: -0.00401884, w: -0.27443892}
+        outSlope: {x: -0.24383852, y: -0.07967495, z: -0.00401884, w: -0.27443892}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666672
+        value: {x: -0.69228745, y: -0.24944445, z: 0.24175781, w: 0.63250995}
+        inSlope: {x: -0.22327715, y: -0.076965615, z: -0.0056605847, w: -0.26513574}
+        outSlope: {x: -0.22327715, y: -0.076965615, z: -0.0056605847, w: -0.26513574}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.13333338
+        value: {x: -0.6890525, y: -0.24830285, z: 0.24185327, w: 0.63644266}
+        inSlope: {x: 0.088118695, y: 0.030856386, z: 0.0024779164, w: 0.106299624}
+        outSlope: {x: 0.088118695, y: 0.030856386, z: 0.0024779164, w: 0.106299624}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.40000004
+        value: {x: -0.6602776, y: -0.23869385, z: 0.2424294, w: 0.6695422}
+        inSlope: {x: 0.01385094, y: 0.00441045, z: 0.00017322616, w: 0.015191153}
+        outSlope: {x: 0.01385094, y: 0.00441045, z: 0.00017322616, w: 0.015191153}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PlasmaRifle 1/FPS_PLAYER_Arm_left
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.26163796, y: 0.63648593, z: -0.15940826}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.40000004
+        value: {x: 0.26163796, y: 0.63648593, z: -0.15940826}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PlasmaRifle 1/FPS_PLAYER_Arm_Right
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.26163796, y: 0.63648593, z: -0.15940826}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.40000004
+        value: {x: 0.26163796, y: 0.63648593, z: -0.15940826}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PlasmaRifle 1/Arms_Mesh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.2383621, y: 0.63648605, z: -0.15940826}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.40000004
+        value: {x: -0.2383621, y: 0.63648605, z: -0.15940826}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PlasmaRifle 1/FPS_PLAYER_Arm_left
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.000000059604645
+        value: {x: 1.0000001, y: 1.0000001, z: 0.9999998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.40000004
+        value: {x: 1.0000001, y: 1.0000001, z: 0.9999998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PlasmaRifle 1/FPS_PLAYER_Arm_Right
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.000000059604645
+        value: {x: 1.0000001, y: 1.0000001, z: 0.9999998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.40000004
+        value: {x: 1.0000001, y: 1.0000001, z: 0.9999998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PlasmaRifle 1/Arms_Mesh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.000000059604645
+        value: {x: 1.0000004, y: 1.0000001, z: 1.0000006}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.40000004
+        value: {x: 1.0000004, y: 1.0000001, z: 1.0000006}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PlasmaRifle 1/FPS_PLAYER_Arm_left
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 1
+  m_Bounds:
+    m_Center: {x: -0.13561916, y: 1.5042785, z: 0.3146217}
+    m_Extent: {x: 0.63562, y: 0.39226103, z: 0.45648843}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []
